@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/jec06/" },
   "dependencies": {
     "gulp": "^4.0.0",
     "gulp-typescript": "^6.0.0-alpha.1",
